@@ -18,10 +18,13 @@ npm run dev
 
 Create a `.env` file in the root:
 
-MONGO_URI=mongodb://localhost:27017/flowx
-PORT=5000
-CLIENT_URL=http://localhost:5173
-APP_PASSWORD=flowx2026
+-MONGO_URI=mongodb://localhost:27017/flowx
+
+-PORT=5000
+
+-CLIENT_URL=http://localhost:5173
+
+-APP_PASSWORD=flowx2026
 
 ## API Routes
 
